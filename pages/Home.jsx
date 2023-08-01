@@ -9,4 +9,4 @@ export default function Home() {
             <Link to="vans">Find your van</Link>
         </div>
     )
-};
+}
